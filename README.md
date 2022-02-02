@@ -1,2 +1,2 @@
 # Thesis-SupplementaryMaterial
-Supplementary figures and tables for my PhD thesis.
+Supplementary material for my PhD thesis.
